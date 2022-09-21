@@ -8,11 +8,11 @@ Or just cool little projects to keep up with new technologies.
 
 
 
- 🔭 I’m currently working on my last big project for school. It's going to be awesome!
+ 🔭 I’m currently working as a software developer using mostly back end technologies but also TypeScript, Vanilla JavaScript, HTML and SCSS.
  
- 🌱 I’m currently learning more about all the nifty things you can do with ReactJS
+ 🌱 I’m currently studying with Codecademy, CS50 and awesome YT tutorials.
 
- 💬 Ask me about internship (spring/fall 2022) or job opportunity (fall 2022)
+ 💬 I am always doing sideprojects with front end technologies to keep learning and advancing my stack.
 
  📫 How to reach me: <stinasmeds@gmail.com> or [LinkedIn](https://www.linkedin.com/in/stina-smeds/)
 
